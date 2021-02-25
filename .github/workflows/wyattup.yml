@@ -1,16 +1,17 @@
 name: Wyatt Readme
 
 on:
-  push:
-    branches:
-      - master
   schedule:
-    - cron: '0 19 * * *'
+    # Runs at 12am UTC
+    - cron: "*/15 * * * *"
 
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
+          SHOW_TITLE: true
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
