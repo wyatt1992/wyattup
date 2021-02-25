@@ -1,9 +1,9 @@
-name: Wyattup Readme
+name: Wyatt Readme
 
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: '0 19 * * *'
 
@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WYATTUP_README }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
