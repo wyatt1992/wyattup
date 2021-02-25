@@ -7,8 +7,6 @@
 - 健康很重要，持续减肥，做好自己
 - 投资自己是一种最佳的复利方式
 
-
-
 #  优势
 1. 熟悉Python，Java等开发语言，了解数据结构算法以及机器学习相关知识
 2. 熟悉微服务设计，熟悉Spring Cloud，Docker，K8S，RabbitMQ等技术栈的整合使用
@@ -19,16 +17,6 @@
 6. 熟悉PMP知识体系，协作过多个项目和部门，具有更强的全局观
 7. 拥有良好的Ownership意识以及自我学习驱动，敢挑战，敢负责
 
-
-# 技术栈
-- 开发语言：Java，Python
-- 设计工具：Diagrams，Power Designer，ProccessOn等
-- 数据库：MySQL，Redis，MongoDB 等
-- 开发框架：Spring Boot，Spring Cloud全家桶，Flask等
-- 中间件：RabbitMQ，xxl-Job，Nacos，ELK 等
-- DevOps链：Docker，Kubernetes，Jenkins 等
-- 管理：PMP
-- 其他：Gitlab, ThingsBoard, 边缘计算, 微信开放平台, 微信公众平台, 阿里云和腾讯云SaaS整套等
 
 
 ![](https://github-readme-stats.vercel.app/api?username=wyattup&theme=dark)
