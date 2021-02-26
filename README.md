@@ -26,6 +26,7 @@
 [Leetcode进度...](https://leetcode-cn.com/u/wyattwang)
 
 ## 减肥战斗
+![](https://www.myfitnesspal.com/ticker/show/405/9065/204059065.png)
 <a href="http://www.myfitnesspal.com/weight-loss-ticker"><img border="0" src="https://www.myfitnesspal.com/ticker/show/405/9065/204059065.png" /></a>
 
 
