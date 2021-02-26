@@ -18,5 +18,14 @@
 7. 拥有良好的Ownership意识以及自我学习驱动，敢挑战，敢负责
 
 
-
+# 正在努力
+## Github
 ![](https://github-readme-stats.vercel.app/api?username=wyattup&theme=dark)
+
+## LeetCode
+[Leetcode进度...](https://leetcode-cn.com/u/wyattwang)
+
+## 减肥战斗
+<a href="http://www.myfitnesspal.com/weight-loss-ticker"><img border="0" src="https://www.myfitnesspal.com/ticker/show/405/9065/204059065.png" /></a>
+
+
