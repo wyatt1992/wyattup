@@ -34,6 +34,13 @@
 
 # 正在努力
 <!--START_SECTION:waka-->
+```text
+Python     10 hrs 10 mins  ███████████████▓░░░░░░░░░   62.78 % 
+HTML       2 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Markdown   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Other      1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Text       59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+```
 <!--END_SECTION:waka-->
 
 ## Github
