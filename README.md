@@ -33,6 +33,9 @@
 
 
 # 正在努力
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Github
 ![](https://github-readme-stats.vercel.app/api?username=wyattup&theme=dark)
 
