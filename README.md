@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2021 - 06 April, 2021
+Week: 31 March, 2021 - 07 April, 2021
 
 Python       2 hrs 24 mins   ██████████████▒░░░░░░░░░░   56.97 % 
 Java         43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 % 
