@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 April, 2021 - 11 April, 2021
+Week: 05 April, 2021 - 12 April, 2021
 
 Properties   15 mins         ██████████▓░░░░░░░░░░░░░░   42.89 % 
 XML          14 mins         ██████████░░░░░░░░░░░░░░░   40.40 % 
