@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 April, 2021 - 22 April, 2021
+Week: 16 April, 2021 - 23 April, 2021
 
 Python    19 hrs 18 mins  ███████████████▒░░░░░░░░░   61.54 % 
 HTML      10 hrs 25 mins  ████████▒░░░░░░░░░░░░░░░░   33.25 % 
