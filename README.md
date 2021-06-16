@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2021 - 14 June, 2021
+Week: 08 June, 2021 - 15 June, 2021
 
 Git Config   4 mins          █████████████▓░░░░░░░░░░░   54.45 % 
 Properties   2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
