@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 July, 2021 - 24 July, 2021
+Week: 19 July, 2021 - 25 July, 2021
 
 Python     12 hrs 31 mins  ████████████████████▓░░░░   82.61 % 
 HTML       1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
