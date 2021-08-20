@@ -40,8 +40,7 @@
 ```text
 Week: 13 August, 2021 - 19 August, 2021
 
-Markdown   26 mins         ███████████████████░░░░░░   75.87 % 
-Python     7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.40 % 
+Java   50 mins         █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
 
