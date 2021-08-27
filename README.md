@@ -40,7 +40,7 @@
 ```text
 Week: 20 August, 2021 - 26 August, 2021
 
-Java   1 hr 39 mins    █████████████████████████   99.99 % 
+Java   49 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
