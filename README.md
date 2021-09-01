@@ -38,7 +38,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 August, 2021 - 31 August, 2021
+
+Other        1 hr 57 mins    ███████████████░░░░░░░░░░   59.34 % 
+Docker       39 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Git Config   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+XML          16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Java         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 <!--END_SECTION:waka-->
 
