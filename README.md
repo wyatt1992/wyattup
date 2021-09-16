@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2021 - 14 September, 2021
+Week: 09 September, 2021 - 15 September, 2021
 
 Java     23 hrs 7 mins   ████████████████░░░░░░░░░   64.28 % 
 YAML     8 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.94 % 
