@@ -38,12 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
-
-XML    44 mins         ██████████████▒░░░░░░░░░░   57.07 % 
-YAML   28 mins         █████████░░░░░░░░░░░░░░░░   36.54 % 
-Bash   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Java   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
