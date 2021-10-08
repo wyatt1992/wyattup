@@ -38,7 +38,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 October, 2021 - 07 October, 2021
+
+Java     3 hrs 56 mins   ████████████████▒░░░░░░░░   65.62 % 
+YAML     1 hr 35 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.42 % 
+XML      23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Docker   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
 
