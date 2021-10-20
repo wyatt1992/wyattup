@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2021 - 18 October, 2021
+Week: 13 October, 2021 - 19 October, 2021
 
 Java              22 hrs 49 mins  ███████████████████▓░░░░░   78.88 % 
 Protocol Buffer   2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
