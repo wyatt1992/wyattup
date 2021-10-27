@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
 Java              15 hrs 16 mins  █████████████▓░░░░░░░░░░░   54.60 % 
 Bash              4 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
