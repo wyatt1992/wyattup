@@ -38,13 +38,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2021 - 01 November, 2021
+Week: 27 October, 2021 - 02 November, 2021
 
-Java              18 hrs 17 mins  █████████████████▒░░░░░░░   69.17 % 
-YAML              4 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Protocol Buffer   1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-XML               1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Bash              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Java              18 hrs 17 mins  █████████████████▒░░░░░░░   69.06 % 
+YAML              5 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+XML               1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Protocol Buffer   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Bash              27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 <!--END_SECTION:waka-->
 
