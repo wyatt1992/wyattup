@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
 Java           9 hrs 47 mins   ████████████████████░░░░░   79.92 % 
 XML            1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
