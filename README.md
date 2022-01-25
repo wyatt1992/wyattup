@@ -38,11 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2022 - 24 January, 2022
-
-Java       13 mins         ██████████████████░░░░░░░   71.98 % 
-YAML       3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
