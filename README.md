@@ -40,6 +40,8 @@
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
+Total: 34 mins
+
 Python   34 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
