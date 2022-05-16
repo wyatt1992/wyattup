@@ -39,13 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 15 May 2022
-
-Python       2 mins          ███████████████▒░░░░░░░░░   60.96 %
-JavaScript   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-JSON         0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
