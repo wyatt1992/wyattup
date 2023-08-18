@@ -32,5 +32,3 @@ Ask me about **As a computer science master, I am passionate about software serv
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyattup&label=Profile%20views&color=0e75b6&style=flat" alt="wyattup" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyattup" alt="wyattup" /></a> </p>
-
