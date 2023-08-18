@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wyatt Wang</h1>
 <h3 align="center">Senior Software Develoment Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wyattup&label=Profile%20views&color=0e75b6&style=flat" alt="wyattup" /> </p>
+- Ask me about **As a computer science master, I am passionate about software service development and have served in various roles such as architect and technical manager in the finance, new retail, and IoT industries for many years. I am proficient in development languages like Python and Java, and have knowledge of data structure algorithms and machine learning. Additionally, I excel in architecture design, am familiar with integrating the Java technology stack, and can proficiently use middleware. Furthermore, I specialize in the DevOps field and am skilled in cloud-native technologies such as Docker and Kubernetes. I am also adept at using design tools like Diagrams, Power Designer, and ProccessOn to output architecture and design content. I am familiar with cloud solutions such as Heroku, Alibaba Cloud, and Tencent Cloud. I have a deep understanding of key product design points and the systematic knowledge system of human-machine interaction, and have participated in the overall product design process for multiple projects. I possess PMP knowledge and have collaborated across multiple projects and departments, which has given me a stronger global perspective. I have a strong sense of ownership, self-learning ability, and am willing to take on challenges and responsibilities.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyattup" alt="wyattup" /></a> </p>
 
 - 🔭 I’m currently working on XPENG MOTORS **Autonomous driving**
 
@@ -11,7 +10,6 @@
 
 - 📝 I regularly write articles on [https://www.wyatt.plus](https://www.wyatt.plus)
 
-- 💬 Ask me about **As a computer science master, I am passionate about software service development and have served in various roles such as architect and technical manager in the finance, new retail, and IoT industries for many years. I am proficient in development languages like Python and Java, and have knowledge of data structure algorithms and machine learning. Additionally, I excel in architecture design, am familiar with integrating the Java technology stack, and can proficiently use middleware. Furthermore, I specialize in the DevOps field and am skilled in cloud-native technologies such as Docker and Kubernetes. I am also adept at using design tools like Diagrams, Power Designer, and ProccessOn to output architecture and design content. I am familiar with cloud solutions such as Heroku, Alibaba Cloud, and Tencent Cloud. I have a deep understanding of key product design points and the systematic knowledge system of human-machine interaction, and have participated in the overall product design process for multiple projects. I possess PMP knowledge and have collaborated across multiple projects and departments, which has given me a stronger global perspective. I have a strong sense of ownership, self-learning ability, and am willing to take on challenges and responsibilities.**
 
 - 📫 How to reach me **wyatt_go@outlook.com**
 
@@ -30,3 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyattup&show_icons=true&locale=en" alt="wyattup" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyattup&" alt="wyattup" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wyattup&label=Profile%20views&color=0e75b6&style=flat" alt="wyattup" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyattup" alt="wyattup" /></a> </p>
+
